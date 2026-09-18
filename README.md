@@ -1,8 +1,8 @@
 # Александр / Alexuys
 
-Full-stack разработка, автоматизация и интеграции.
+Разработка ПО, сайтов и веб-приложений, автоматизация бизнеса, AI и интеграции.
 
-Работаю с веб-сервисами, CRM и внутренними системами, Telegram-проектами, API-интеграциями, автоматизациями и мобильными приложениями. Часто подключаюсь к уже существующему проекту: исправляю ошибки, восстанавливаю интеграции, добавляю функционал и довожу до рабочего запуска без переписывания всего проекта с нуля.
+Работаю с веб-сервисами, CRM и внутренними системами, 1С/API-интеграциями, AI-автоматизацией, Telegram-проектами и мобильными приложениями. Часто подключаюсь к уже существующему проекту: исправляю ошибки, восстанавливаю интеграции, добавляю функционал и довожу до рабочего запуска без переписывания всего проекта с нуля.
 
 **Портфолио:** https://alexgtup.github.io/  
 **Рабочие демо:** https://alexgtup.github.io/demos/  
@@ -10,11 +10,17 @@ Full-stack разработка, автоматизация и интеграц�
 
 ## Основные направления
 
-- Web / full-stack: https://alexgtup.github.io/web-development/
-- Доработка существующих проектов: https://alexgtup.github.io/project-repair/
+- Разработка ПО на заказ: https://alexgtup.github.io/development/
+- Сайты и веб-приложения: https://alexgtup.github.io/web-development/
+- Автоматизация бизнеса: https://alexgtup.github.io/automation-services/
+- ИИ для бизнеса и AI-автоматизация: https://alexgtup.github.io/ai-automation/
+- Интеграция 1С: https://alexgtup.github.io/1c-integration/
+- Интеграция с маркетплейсами: https://alexgtup.github.io/marketplace-integration/
 - CRM и внутренние системы: https://alexgtup.github.io/crm-development/
 - API и интеграции: https://alexgtup.github.io/api-integrations/
-- n8n / automation: https://alexgtup.github.io/n8n-automation/
+- Мобильные приложения: https://alexgtup.github.io/app-development/
+- WordPress: https://alexgtup.github.io/wordpress-development/
+- Доработка существующих проектов: https://alexgtup.github.io/project-repair/
 - Telegram-боты и Mini Apps: https://alexgtup.github.io/telegram-bots/
 
 ## Выбранные проекты
