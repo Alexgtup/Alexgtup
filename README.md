@@ -1,34 +1,44 @@
 # Александр / Alexuys
 
-Разработка ПО, сайтов и веб-приложений, автоматизация бизнеса, AI и интеграции.
+Разработка и доработка веб-проектов, Telegram-ботов, WordPress, n8n-автоматизаций, API и внутренних систем.
 
-Работаю с веб-сервисами, CRM и внутренними системами, 1С/API-интеграциями, AI-автоматизацией, Telegram-проектами и мобильными приложениями. Часто подключаюсь к уже существующему проекту: исправляю ошибки, восстанавливаю интеграции, добавляю функционал и довожу до рабочего запуска без переписывания всего проекта с нуля.
+Чаще всего подключаюсь к уже существующему проекту: нахожу причину ошибки, восстанавливаю интеграции, добавляю функционал и довожу рабочую основу до релиза без лишней пересборки.
 
 **Портфолио:** https://alexgtup.github.io/  
-**Рабочие демо:** https://alexgtup.github.io/demos/  
-**Кейсы:** https://alexgtup.github.io/cases/
+**Кейсы:** https://alexgtup.github.io/cases/  
+**Рабочие демо:** https://alexgtup.github.io/demos/
 
-## Основные направления
+## Приоритетные направления
 
-- Разработка ПО на заказ: https://alexgtup.github.io/development/
-- Сайты и веб-приложения: https://alexgtup.github.io/web-development/
-- Автоматизация бизнеса: https://alexgtup.github.io/automation-services/
-- ИИ для бизнеса и AI-автоматизация: https://alexgtup.github.io/ai-automation/
-- Интеграция 1С: https://alexgtup.github.io/1c-integration/
-- Интеграция с маркетплейсами: https://alexgtup.github.io/marketplace-integration/
-- CRM и внутренние системы: https://alexgtup.github.io/crm-development/
+- Разработка Telegram-ботов: https://alexgtup.github.io/telegram-bots/
+- Доработка Telegram-ботов на Python / aiogram: https://alexgtup.github.io/telegram-bot-repair/
+- n8n автоматизация на заказ: https://alexgtup.github.io/n8n-automation/
+- Доработка WordPress-сайтов: https://alexgtup.github.io/wordpress-development/
+- Доработка существующих сайтов: https://alexgtup.github.io/site-repair/
 - API и интеграции: https://alexgtup.github.io/api-integrations/
+
+## Другие направления
+
+- Сайты и веб-приложения: https://alexgtup.github.io/web-development/
+- Разработка ПО на заказ: https://alexgtup.github.io/development/
+- Автоматизация бизнеса: https://alexgtup.github.io/automation-services/
+- AI-автоматизация: https://alexgtup.github.io/ai-automation/
+- CRM и внутренние системы: https://alexgtup.github.io/crm-development/
+- Интеграция 1С: https://alexgtup.github.io/1c-integration/
+- Маркетплейсы: https://alexgtup.github.io/marketplace-integration/
 - Мобильные приложения: https://alexgtup.github.io/app-development/
-- WordPress: https://alexgtup.github.io/wordpress-development/
-- Доработка существующих проектов: https://alexgtup.github.io/project-repair/
-- Telegram-боты и Mini Apps: https://alexgtup.github.io/telegram-bots/
 
-## Выбранные проекты
+## Реальные проекты
 
-### Auto CRM
-CRM для автосалона: заявки, статусы, рабочий процесс менеджеров и точки автоматизации.
+### Fin Planner
+Telegram-продукт для учёта доходов и расходов с данными, состояниями и backend-логикой.
 
-https://alexgtup.github.io/cases/auto-crm/
+https://alexgtup.github.io/cases/fin-planner/
+
+### Коммерческий WordPress-проект
+Доработка существующего сайта: страницы, формы, калькуляторы, адаптив, меню и технические правки без переписывания темы.
+
+https://alexgtup.github.io/cases/wordpress-commercial/
 
 ### SEO Control Center
 Система контроля поисковой видимости: Search Console, Яндекс.Вебмастер, sitemap, позиции, CTR и состояние URL.
@@ -36,14 +46,9 @@ https://alexgtup.github.io/cases/auto-crm/
 https://alexgtup.github.io/cases/seo-control-center/
 
 ### SiteAudit Studio
-Рабочий web-сервис для технического аудита: HTTP, crawl, robots.txt, sitemap, canonical, indexability, метаданные, ссылки и security baseline.
+Web-сервис для технического аудита: HTTP, crawl, robots.txt, sitemap, canonical, indexability, метаданные и ссылки.
 
 https://alexgtup.github.io/cases/siteaudit-studio/
-
-### FreelanceOS
-Local-first CRM для лидов, pipeline, follow-up, задач, источников, бюджета и выручки.
-
-https://alexgtup.github.io/cases/freelance-os/
 
 ### SheetPilot AI
 Web-сервис для работы с Excel-файлами и табличными данными через инструкции обычным языком.
@@ -59,6 +64,6 @@ Python, JavaScript / TypeScript, Node.js, React, Next.js, Swift, WordPress, REST
 Профиль Freelance.ru с отзывами и выполненными проектами:  
 https://freelance.ru/gglalex
 
-GitHub-репозитории показывают отдельные части работы с Telegram / Python, web-интерфейсами и инфраструктурой. Для продуктовых проектов, где исходный код не публикуется, в портфолио доступны кейсы и рабочие демо.
+GitHub-репозитории показывают отдельные части работы с Telegram / Python, web-интерфейсами и инфраструктурой. Для проектов, где исходный код не публикуется, в портфолио доступны кейсы и рабочие демо.
 
 **Telegram:** https://t.me/Alexuys
